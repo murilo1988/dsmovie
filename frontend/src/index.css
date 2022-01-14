@@ -4,11 +4,7 @@
   --color-primary: #4D41C0;
 }
 
-#teste {
-  padding-bottom: 5px;
 
-
-}
 
 * {
   box-sizing: border-box;
@@ -25,3 +21,4 @@ a:hover {
   text-decoration: none;
   color: unset;
 }
+
