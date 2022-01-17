@@ -11,7 +11,6 @@ import com.devsuperior.dsmovie.entities.Movie;
 import com.devsuperior.dsmovie.repositories.MovieRepository;
 
 @Service
-
 public class MovieService {
 
 	@Autowired
